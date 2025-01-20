@@ -1,6 +1,6 @@
 ### :wave:
 
-Hi, I write random stuff
+Hi, I'm Vincent an Electrical Engineering student at Mcgill University.
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentvibe3&show_icons=true&count_private=true)](https://github.com/Vincentvibe3)
 
